@@ -9,8 +9,6 @@ Some test writing examples in **Golang**.
 
 👉 We tried to keep it as simple as possible to make the logic behind the test as clear as possible.
 
------
-
 ## How to run test:
 - make sure you are in root folder
 - run the test by `$ go test` ✅
